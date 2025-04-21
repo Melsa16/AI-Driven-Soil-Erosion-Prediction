@@ -25,12 +25,13 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Run the Streamlit app:
+1. Run this code:
 ```bash
+python CPIFINAL.ipynb
 streamlit run app.py
 ```
 
-2. Open your web browser and navigate to the provided local URL (typically http://localhost:8501)
+2. Open your web browser and navigate to the provided local URL
 
 3. Enter the required parameters:
    - Climate parameters (temperature, precipitation, elevation)
