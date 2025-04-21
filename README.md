@@ -14,8 +14,8 @@ A machine learning-based web application that predicts soil erosion risk based o
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone "https://github.com/Melsa16/AI-Driven-Soil-Erosion-Prediction.git"
+cd AI-Driven-Soil-Erosion-Prediction
 ```
 
 2. Install the required packages:
@@ -57,4 +57,4 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-[Your chosen license] 
+[MIT License] 
